@@ -1,11 +1,11 @@
 # The Pig Game
 
 ### Gameplay
-Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
+Cada turno, un jugador repetidamente tira un dado hasta que obtiene un 1 o hasta que el jugador decide holdear su puntaje parcial.
 
-- If the player rolls a 1, they score nothing and it becomes the next player's turn.
-- If the player rolls any other number, it is added to their turn total and the player's turn continues.
-- If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
-- The first player to score 100 or more points wins.
-
+- Si el jugador obtiene un 1, el puntaje parcial se hace 0 y comienza el turno del jugador oponente.
+- Si el jugador obtiene cualquier otro numero, se suma dicho numero a su puntaje parcial y su turno continua.
+- Si el jugado elije holdear su puntaje parcial, se agrega el mismo a su puntaje total y comienza el turno del jugador opoenente.
+- El primer jugador en llegar a 100 puntos o más, gana.
+- 
 <img src = "/Firebase/Resumee/public/images/webapps/PigGame.png">
