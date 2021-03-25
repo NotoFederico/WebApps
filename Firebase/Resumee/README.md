@@ -1,4 +1,4 @@
-## Sitio web con dominio y host de Firebase
+## Sitio web con dominio y host de Firebase [Google]
 
 Realizado con HTML, CSS, JS, Bootstrap...
 
