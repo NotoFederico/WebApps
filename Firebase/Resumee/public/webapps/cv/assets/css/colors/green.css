@@ -1,0 +1,113 @@
+body {
+  background-color: #eae8e7;
+  color: #606060;
+}
+
+/* 
+***** Sidebar  *****
+*/
+
+.sidebar {
+  color: #ffffff;
+  background-color: #00dcf8;
+}
+
+.sidebar .heading nav .button-collapse i {
+  background-color: #00dcf8;
+}
+
+.sidebar .heading nav .side-nav h3 {
+  color: #00dcf8;
+}
+
+.sidebar .heading nav .side-nav li a:hover {
+  color: #00dcf8;
+}
+
+.sidebar .info {
+  border-bottom: 1px solid #00dcf8;
+}
+
+.sidebar .skill-line .progress {
+  background-color: #00dcf8;
+}
+
+/* style for
+***** Work Experience  *****
+*/
+
+.custom-content-wrapper span {
+  color: #00dcf8;
+}
+
+/* style for
+*****  Interests  *****
+*/
+
+.interests ul li .fa {
+  color: #00dcf8;
+}
+
+/* style for
+***** Portfolio website  *****
+*/
+
+.website span a {
+  color: #00dcf8;
+}
+
+input[type="text"]:focus:not([readonly]),
+input[type="email"]:focus:not([readonly]),
+input[type="tel"]:focus:not([readonly]),
+input[type="number"]:focus:not([readonly]),
+input[type="search"]:focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #00dcf8;
+}
+
+input[type="text"]:focus:not([readonly]) + label,
+input[type="password"]:focus:not([readonly]) + label,
+input[type="email"]:focus:not([readonly]) + label,
+input[type="url"]:focus:not([readonly]) + label,
+input[type="time"]:focus:not([readonly]) + label,
+input[type="date"]:focus:not([readonly]) + label,
+input[type="datetime-local"]:focus:not([readonly]) + label,
+input[type="tel"]:focus:not([readonly]) + label,
+input[type="number"]:focus:not([readonly]) + label,
+input[type="search"]:focus:not([readonly]) + label,
+textarea.materialize-textarea:focus:not([readonly]) + label {
+  color: #00dcf8;
+}
+
+.waves-me:focus {
+  background-color: #00dcf8;
+  color: #fff;
+}
+
+.btn {
+  margin-left: 10px;
+  background-color: #00dcf8;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #00dcf8;
+}
+
+.btn.disabled {
+  background-color: #00dcf8;
+  color: #fff;
+  cursor: default;
+}
+
+.btn.disabled:focus {
+  background-color: #00dcf8;
+  color: #fff;
+  cursor: default;
+}
+
+.btn.disabled:hover {
+  background-color: #00dcf8;
+  color: #fff;
+  cursor: default;
+}
